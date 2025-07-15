@@ -74,8 +74,8 @@
 ### 🏅 LeetCode Badges:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eigen04/eigen04/main/assests/25100.gif" height="120"/>
-  <img src="https://raw.githubusercontent.com/eigen04/eigen04/main/assests/2550.gif" height="120"/>
+  <img src="https://raw.githubusercontent.com/eigen04/eigen04/main/assets/25100.gif" height="120"/>
+  <img src="https://raw.githubusercontent.com/eigen04/eigen04/main/assets/2550.gif" height="120"/>
 </p>
 
 ---

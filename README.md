@@ -74,7 +74,7 @@
 ### 🏅 LeetCode Badges:
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=AnantAgarwal&badge=100-days-2025&theme=dark" height="120"/>
+  <img "C:\Users\ANANT AGARWAL\Downloads\25100.gif" height="120"/>
 </p>
 
 ---

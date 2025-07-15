@@ -84,5 +84,5 @@
 <p align="center">
   <a href="mailto:agarwalanant2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/eigen04"><img src="https://img.shields.io/badge/GitHub-eigen04-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/anant04/"><img src="https://img.shields.io/badge/LinkedIn-AnantAgarwal-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/anantagarwal04/"><img src="https://img.shields.io/badge/LinkedIn-AnantAgarwal-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
